@@ -1,0 +1,5 @@
+.idea
+settings.py
+excel/*
+__pycache__
+SpaceAmbasador/geckodriver.log
